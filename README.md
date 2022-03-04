@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Murcielago95
-- 👀 I’m interested in bioinformatic, data sciences, python, R, C++ and genetic.
-- 🌱 I’m currently learning python and C++
+- 👀 I’m interested in bioinformatic, data sciences, python, R, C# and genetic.
+- 🌱 I’m currently learning python and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by mail: karol_puchala@sggw.edu.pl
 
