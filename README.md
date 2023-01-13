@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Murcielago95
+- 👋 Hi, I’m @Karol-Puchala
 - 👀 I’m interested in bioinformatic, data sciences, python, C# and genetic.
 - 📫 How to reach me by mail: karol.puchala2@gmail.com
 
